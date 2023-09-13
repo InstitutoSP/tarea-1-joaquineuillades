@@ -21,4 +21,4 @@ Deben crear una página web que contenga tres artículos relacionados con el tem
 
 ## Evaluación
 
-Acá deben incluir una breve descripción y quienes trabajaron.
+ Hicimos una pagina web sobre inteligencia artificial y participamos: Serna Santino y Euillades Joaquin.
